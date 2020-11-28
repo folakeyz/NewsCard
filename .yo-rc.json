@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "general-news",
+    "libraryId": "812d2bfb-8a83-4df8-abcb-6369abee5eb0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
